@@ -1,0 +1,16 @@
+     0 Thu Oct 11 20:54:10 JST 2012 META-INF/
+   622 Thu Oct 11 20:54:08 JST 2012 META-INF/MANIFEST.MF
+     0 Thu Oct 11 20:52:12 JST 2012 org/
+     0 Thu Oct 11 20:52:12 JST 2012 org/slf4j/
+     0 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/
+   921 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/SimpleLogger$1.class
+ 11577 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/SimpleLogger.class
+  1064 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/SimpleLoggerFactory.class
+  1070 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/StaticLoggerBinder.class
+   839 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/StaticMarkerBinder.class
+   697 Thu Oct 11 20:52:12 JST 2012 org/slf4j/impl/StaticMDCBinder.class
+     0 Thu Oct 11 20:54:10 JST 2012 META-INF/maven/
+     0 Thu Oct 11 20:54:10 JST 2012 META-INF/maven/org.slf4j/
+     0 Thu Oct 11 20:54:10 JST 2012 META-INF/maven/org.slf4j/slf4j-simple/
+  1472 Thu Oct 11 20:51:12 JST 2012 META-INF/maven/org.slf4j/slf4j-simple/pom.xml
+   112 Thu Oct 11 20:52:12 JST 2012 META-INF/maven/org.slf4j/slf4j-simple/pom.properties

@@ -1,0 +1,1 @@
+java -cp .:stanford-posttagger.jar:slf4j-api.jar:slf4j-simple.jar TaggerDemo mymodel.tagger sample-input.txt
